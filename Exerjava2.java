@@ -5,7 +5,7 @@
  */
 package exerjava2;
 
-import java.util.Scanner;
+
 
 /**
  *
@@ -18,12 +18,16 @@ public class Exerjava2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
-        Scanner x = new Scanner(System.in);
         int c;
-        
         for (c = 0;c < 1000; c++){
-            System.out.println.(c);
+            System.out.println(c); 
+            
+            if (c <=0); 
+            System.out.println("zero" "um" "dois" );
+            
+                
+        }
+            
         
         
     }
