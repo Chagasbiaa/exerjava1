@@ -9,3 +9,6 @@ Segundo exercício: Faça um programa que leia uma sequência de números inteir
 
 
 Terceiro exercício: Escreva um programa que receba um número inteiro positivo "x", e retorne a soma dos n primeiros números inteiros.
+
+
+OBS: O execício 4 é referente ao 3, ocorreu um erro quando salvamos.
