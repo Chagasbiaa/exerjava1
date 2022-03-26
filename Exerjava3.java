@@ -26,7 +26,8 @@ public class Exerjava3 {
           qtdDigitados += 1;
          if(num >=0){
               result+= num;
-         }else {
+         }
+         else {
              result = result /(qtdDigitados - 1);
              System.out.println(result);
          }
