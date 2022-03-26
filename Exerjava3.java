@@ -21,7 +21,7 @@ public class Exerjava3 {
         Scanner x = new Scanner(System.in); 
         
         while(num >=0){
-          System.out.println("Digite um número inteiro:");
+          System.out.println("Digite um número inteiro: ");
           num = x.nextInt();
           qtdDigitados += 1;
          if(num >=0){
