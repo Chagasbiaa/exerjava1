@@ -1,3 +1,6 @@
+2° DS
+Alexandre Mezack e Beatriz das Chagas
+
 primeiro exercício da linguagem Java
 
 
